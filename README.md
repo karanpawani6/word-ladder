@@ -108,7 +108,7 @@ word-ladder/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/word-ladder.git
+git clone https://github.com/karanpawani6/word-ladder.git
 cd word-ladder
 ```
 
